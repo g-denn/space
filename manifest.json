@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Compliment Generator",
+    "version": "1.0",
+    "description": "Gives you a random compliment every time you open a new tab.",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    }
+  }
+  
